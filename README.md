@@ -1,3 +1,3 @@
 # MyResume
-![alt image](<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/7fc7f7c2-bf65-4834-92e0-8e9b79d60646" />
+![alt image](https://github.com/Lalchand26/MyResume/blob/cc724d1b45e24a167fc61d61a722a5f378509722/MyResume2.pdf
 )
